@@ -27,7 +27,7 @@ how to use
 ----------------
 References
 ----------------
-.. _tutorial  https://dev.to/codemouse92/dead-simple-	python-project-structure-and-imports-38c6
+.. _tutorial https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6
 
 - inspired by packages odl, odlpet, stir
-- tutorial_ "Dead Simple Python: Project Structure and Imports" 
+- a tutorial_ "Dead Simple Python: Project Structure and Imports" 
