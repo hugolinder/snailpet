@@ -2,7 +2,7 @@
 Software for head Nodding Adjustment in Interfile Listmode data for Positron Emission Tomography
 
 Description
------------
+===========
 
 Functionality:
 - read and write interfile data 
@@ -17,9 +17,9 @@ Intended use:
 - I will use the scanner software to convert into interfile format, do my motion corrections and output interfile, and finally do image reconstruction with scanner software.
 
 How to install
---------------
+==============
 
 How to use
-----------
+==========
 
 
