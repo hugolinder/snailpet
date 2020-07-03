@@ -2,6 +2,8 @@ snailpet
 ========
 Software for head Nodding Adjustment in Interfile Listmode data for Positron Emission Tomography
 
+by Hugo Linder, for master thesis at KTH
+
 ---------------
 Description
 ---------------
@@ -35,11 +37,4 @@ How to install
 How to use
 ------------
 
------------
-Final words
------------
-
-This is part of my master's thesis in medical engineering at KTH. 
-
-.. author:: Hugo Linder
 
