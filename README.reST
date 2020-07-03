@@ -8,8 +8,8 @@ by Hugo Linder, for master thesis at KTH
 Description
 ---------------
 
-Positron emission tomography (PET) is used in medicine to image the distribution of molecules in the body. Body motion during a PET scan have a negative effect on the images. 
-This python package snailpet aims to improve image quality by data-driven motion corrections, with a focus on head movements. 
+Positron emission tomography (PET) is used in medicine to image the distribution of molecules in the body. Taking images with PET is slow, as PET scans typically last several minutes. Body motion during a PET scan has a negative effect on the image reconstruction, even if the motion is at a snail's pace. This python package snailpet aims to apply data-driven gating and motion corrections of PET data, with a focus on head movements. 
+
 Functionality
 
 .. _LOR: http://tech.snmjournals.org/content/29/1/4.full
@@ -33,6 +33,8 @@ Intended use
 ------------------
 How to install
 ------------------
+
+git clone https://github.com/hugolinder/snailpet.git
 
 ------------
 How to use
