@@ -34,6 +34,8 @@ Intended use
 How to install
 ------------------
 
+For a virtual environment, please see requirements.txt (generated with conda list -e > requirements)
+
 git clone https://github.com/hugolinder/snailpet.git
 
 ------------
