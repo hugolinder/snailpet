@@ -6,7 +6,8 @@ Software for head Nodding Adjustment in Interfile Listmode data for Positron Emi
 Description
 ---------------
 
-Functionality:
+Functionality
+
 - read and write interfile data 
 - apply corrections (normalisation, deadtime, radial arc, randoms subtraction)
 - gate data, into frames with less motion
@@ -14,7 +15,8 @@ Functionality:
 - motion correction event by event that preserves LOR directions for coincidences
 - listmode reconstruction
 
-Intended use:
+Intended use
+
 - Listmode data in the PETLink format, from the Siemens Biograph mCT PET scanner, model 1104.  
 - I will use 
      * the scanner software to convert into interfile format
