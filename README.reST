@@ -7,7 +7,7 @@ Description
 ---------------
 
 Motion during image acquisition is a problem in positrion emission tomography (PET), which is used in medicine to image the distribution of molecules in the body. 
-This python package snailpet aims to improve image quality by data-driven motion corrections, with a focus on head movements, that is nodding. This is part of my thesis in medical engineering at KTH.
+This python package snailpet aims to improve image quality by data-driven motion corrections, with a focus on head movements, that is nodding. This is part of my master's thesis in medical engineering at KTH.
 
 Functionality
 
