@@ -6,6 +6,9 @@ Software for head Nodding Adjustment in Interfile Listmode data for Positron Emi
 Description
 ---------------
 
+Motion during image acquisition is a problem in PET imaging, which is used in medicine to look at the distribution of molecules in the body. 
+This python package snailpet aims to improve image quality by data-driven motion corrections, with a focus on head movements, that is nodding.
+
 Functionality
 
 - read and write interfile data 
