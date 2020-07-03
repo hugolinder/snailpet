@@ -10,7 +10,8 @@ Positron emission tomography (PET) is used in medicine to image the distribution
 This python package snailpet aims to improve image quality by data-driven motion corrections, with a focus on head movements, that is nodding. This is part of my master's thesis in medical engineering at KTH.
 
 Functionality
-.. _LOR http://tech.snmjournals.org/content/29/1/4.full
+
+.. _LOR  http://tech.snmjournals.org/content/29/1/4.full
 - read and write interfile data 
 - apply corrections (normalisation, deadtime, radial arc, randoms subtraction)
 - gate data, into frames with less motion
