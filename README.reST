@@ -6,7 +6,7 @@ Software for head Nodding Adjustment in Interfile Listmode data for Positron Emi
 Description
 ---------------
 
-Motion during image acquisition is a problem in positrion emission tomography (PET), which is used in medicine to image the distribution of molecules in the body. 
+Positron emission tomography (PET) is used in medicine to image the distribution of molecules in the body. Body motion during a PET scan have a negative effect on the images. 
 This python package snailpet aims to improve image quality by data-driven motion corrections, with a focus on head movements, that is nodding. This is part of my master's thesis in medical engineering at KTH.
 
 Functionality
@@ -20,7 +20,8 @@ Functionality
 
 Intended use
 
-- Listmode data in the PETLink format, from the Siemens Biograph mCT PET scanner, model 1104.  
+.. _PETLink  https://www.siemens-healthineers.com/en-us/molecular-imaging/petlink-documents
+- Listmode data in the PETLink_ format, from the Siemens Biograph mCT PET scanner, model 1104.  
 - I will use 
      * the scanner software to convert into interfile format
      * do my motion corrections and output interfile
