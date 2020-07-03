@@ -13,7 +13,7 @@ Functionality
 
 .. _LOR  http://tech.snmjournals.org/content/29/1/4.full
 - read and write interfile data 
-- apply corrections (normalisation, deadtime, radial arc, randoms subtraction)
+- apply standard corrections (normalisation, deadtime, radial arc, randoms subtraction)
 - gate data, into frames with less motion
 - estimate position and translation motion by tracking Center of Mass
 - motion correction event by event that preserves LOR_ directions for coincidences
