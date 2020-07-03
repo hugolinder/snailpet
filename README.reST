@@ -21,7 +21,7 @@ git clone https://github.com/hugolinder/snailpet.git
 
 -------------
 how to use
---------------
+-------------
 - python -c "import project_tutorial; project_tutorial.test()"
 - run example in a notebook demonstrating the package. 
 
