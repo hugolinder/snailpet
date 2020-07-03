@@ -12,7 +12,7 @@ Positron emission tomography (PET) is used in medicine to image the distribution
 This python package snailpet aims to improve image quality by data-driven motion corrections, with a focus on head movements. 
 Functionality
 
-.. _LOR http://tech.snmjournals.org/content/29/1/4.full
+.. _LOR: http://tech.snmjournals.org/content/29/1/4.full
 
 - read and write interfile data 
 - apply standard corrections (normalisation, deadtime, radial arc, randoms subtraction)
@@ -23,7 +23,7 @@ Functionality
 
 Intended use
 
-.. _PETLink  https://www.siemens-healthineers.com/en-us/molecular-imaging/petlink-documents
+.. _PETLink:  https://www.siemens-healthineers.com/en-us/molecular-imaging/petlink-documents
 - Listmode data in the PETLink_ format, from the Siemens Biograph mCT PET scanner, model 1104.  
 - I will use 
      * the scanner software to convert into interfile format
