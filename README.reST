@@ -10,10 +10,10 @@ This branch is a toy version of the larger project, where I want to familiarize 
 
 I want to
 
-- have a base, which I can use as a simple example of a project, as reference.
-- practice pytest, import, style check, subpackages, and setup. 
-- step through development to actual package. 
-- practice git. 
+- have a base, which I can use as a simple example of a project, as reference
+- practice pytest, import, style check, subpackages, and setup
+- step through development to actual package
+- practice git
 
 ---------------
 how to install
